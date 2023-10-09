@@ -280,7 +280,7 @@ primary:
         - key: role
           operator: In
           values:
-          - UAT-NEW-DB-NG-1
+          - MY-NEW-DB-NG-1
 
 
   ## @param primary.nodeSelector Node labels for MySQL primary pods assignment
